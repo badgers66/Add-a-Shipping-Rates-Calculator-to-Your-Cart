@@ -1,4 +1,4 @@
-# Add-a-Shipping-Rates-Calculator-to-Your-Cart
+# Add a Shipping Rates Calculator to Your-Cart
 
 If you have been reading this article:
 

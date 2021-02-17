@@ -11,3 +11,12 @@ I am using:   {{ '//ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js' | 
 They say in the article to update it to 1.7 but this worked fine for me.
 
 Took me a while to get the right code for this because there are two articles one for section themes and one for non section themes... What they mean by this is Seconed themes are mostly build with Slate them builder.
+
+calc css: add the css to your theme style sheet.
+
+settings.jason: add this to your settings jason file.
+
+ 
+shipping_cart.js: create a js file add it to assests and include it in your head tag.
+
+shipping_cart_snippet: create a snippet and paste.
